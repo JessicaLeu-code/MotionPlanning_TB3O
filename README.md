@@ -7,7 +7,7 @@ This repo contains implementations of RRT path planning for Turtlebot3 with Open
 
 run `RRT_planning/RRT_3_test.m` to plan for the mobile platform with RRT-ILQR.
 
-![](https://github.com/JessicaLeu-code/pic/rrt_pic.gif)
+![](https://github.com/JessicaLeu-code/MotionPlanning_TB3O/pic/rrt_pic.gif)
 
 ## Full robot planning example
 
